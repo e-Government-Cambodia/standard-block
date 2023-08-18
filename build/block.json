@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "kmstdblocks/standard-blocks",
+  "version": "0.1.0",
+  "title": "Cambodia WP Blocks",
+  "category": "design",
+  "icon": "mptc",
+  "description": "WordPress Block ecosystem for Cambodia Government website based on Gov Web design standard",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "standard-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "viewScript": "file:./view.js"
+}

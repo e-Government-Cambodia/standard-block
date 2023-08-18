@@ -1,0 +1,1 @@
+{"version":3,"file":"view.js","mappings":";;;;;AAAA;AACAA,OAAO,CAACC,GAAG,CAAE,uDAAwD,CAAC;AACtE,8B","sources":["webpack://standard-blocks/./src/view.js"],"sourcesContent":["/* eslint-disable no-console */\nconsole.log( 'Hello World! (from kmstdblocks-standard-blocks block)' );\n/* eslint-enable no-console */\n"],"names":["console","log"],"sourceRoot":""}
